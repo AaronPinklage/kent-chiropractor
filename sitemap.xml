@@ -9,7 +9,13 @@
 
 <url>
   <loc>https://aaronpinklage.github.io/kent-chiropractor/</loc>
-  <lastmod>2023-11-22T18:34:56+00:00</lastmod>
+  <lastmod>2023-11-28T21:15:45+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://aaronpinklage.github.io/kent-chiropractor/kent-chiropractor</loc>
+  <lastmod>2023-11-28T21:15:45+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 
 
